@@ -1,0 +1,6 @@
+__pycache__
+*.o
+parser_*
+yxml.*
+*.tok
+discogs.db
